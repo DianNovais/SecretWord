@@ -1,0 +1,11 @@
+.endScore{
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #ecfa00;
+}
+.endPara{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
